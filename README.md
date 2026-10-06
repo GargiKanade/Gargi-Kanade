@@ -15,8 +15,8 @@ Currently preparing for CAT 2026 and building data and business analysis project
 ## Projects
 | Project | Question it answers | Status |
 |---|---|---|
-| [quickcommerce-sla-diagnostic](link) | Why does 10-minute delivery compliance drop, and where? | Ongoing |
-| [sku-demand-forecasting](link) | How reliable is a 4-week SKU forecast for festive planning? | Planned |
+| [quickcommerce-sla-diagnostic](https://github.com/GargiKanade/quickcommerce-sla-diagnostic) | Why does 10-minute delivery compliance drop, and where? | Ongoing |
+| [sku-demand-forecasting](https://github.com/GargiKanade/sku-demand-forecasting) | How reliable is a 4-week SKU forecast for festive planning? | Planned |
 | [concall-sentiment-india](link) | Does tone in earnings calls relate to post-result stock moves? | Planned |
 
 
