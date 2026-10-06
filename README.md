@@ -13,11 +13,11 @@ Currently preparing for CAT 2026 and building data and business analysis project
 - Tools: Python (pandas, scikit-learn), Excel, Power BI, Git
 
 ## Projects
-| Project | Question it answers | 
-|---|---|
-| [quickcommerce-sla-diagnostic](link) | Why does 10-minute delivery compliance drop, and where? | 
-| [sku-demand-forecasting](link) | How reliable is a 4-week SKU forecast for festive planning? | 
-| [concall-sentiment-india](link) | Does tone in earnings calls relate to post-result stock moves? | 
+| Project | Question it answers | Status |
+|---|---|---|
+| [quickcommerce-sla-diagnostic](link) | Why does 10-minute delivery compliance drop, and where? | Ongoing |
+| [sku-demand-forecasting](link) | How reliable is a 4-week SKU forecast for festive planning? | Planned |
+| [concall-sentiment-india](link) | Does tone in earnings calls relate to post-result stock moves? | Planned |
 
 
 ## Contact
